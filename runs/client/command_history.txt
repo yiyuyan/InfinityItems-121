@@ -1,0 +1,11 @@
+/give @s minecraft:anvil
+/give @s minecraft:acacia_button
+/enchant @s minecraft:infinity
+/give @s minecraft:totem_of_undying
+/damage @s 20
+/give @s minecraft:arrow
+/give @s minecraft:bow
+/give @s minecraft:crossbow
+/enchant @s minecraft:infinity
+/xp add @s 114 levels
+/inject
