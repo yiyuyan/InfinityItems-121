@@ -9,3 +9,4 @@
 /enchant @s minecraft:infinity
 /xp add @s 114 levels
 /inject
+/clear
