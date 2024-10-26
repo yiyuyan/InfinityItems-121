@@ -65,5 +65,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-10-26 19:07:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-10-26 19:06:18 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

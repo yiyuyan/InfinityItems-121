@@ -10,3 +10,6 @@
 /xp add @s 114 levels
 /inject
 /clear
+/inject
+/xp set @s 114514 levels
+/inject
